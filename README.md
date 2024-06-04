@@ -1,1 +1,1 @@
-# GIFWAVE using custom hooks
+# GIFWAVE using Custom Hooks
